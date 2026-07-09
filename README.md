@@ -141,8 +141,5 @@ You should have a basic understanding of:
 
 This project is provided for educational purposes. Feel free to fork, modify, and use it for learning.
 
-## Author
-
-Created by Kat Toolan
 
 GitHub: https://github.com/hellosmallkat
